@@ -1,3 +1,3 @@
 # Greetings! :wave:
-## [Check out my website...](https://vedthiru.com/about)
+## [Check out my website...](https://vedthiru.com/)
 ### ...and my pinned repos :)
